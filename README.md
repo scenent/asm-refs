@@ -3,11 +3,13 @@ nasm references for win64
 
 ---
 
-Tested on Windows 11 x64
+Tested on: 
 
-GCC v15.2.0
+- Windows 11 x64
 
-NASM v3.0.1
+- GCC v15.2.0
+
+- NASM v3.0.1
 
 ### commands
 
